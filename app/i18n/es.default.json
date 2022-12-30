@@ -1,0 +1,17 @@
+{
+  "app.name": "VIAP travel",
+  "_FILE": {
+    "language_code": "es",
+    "language": "Spanish"
+  },
+  "Welcome to": "Bienvenido",
+  "VIAP travel": "a VIAP travel",
+  "TRIP REQUEST": "SOLICITUD DE VIAJE",
+  "FLIGHT SEARCH": "BUSCADOR DE VUELOS",
+  "HOTEL SEARCH": "BUSCADOR DE HOTELES",
+  "tracking.transparency": {
+    "title": "No se puede usar esta función",
+    "message": "No tenemos permiso para redirigirte al servicio",
+    "okButtonText": "Cerrar"
+  }
+}

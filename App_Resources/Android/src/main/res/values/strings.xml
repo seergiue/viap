@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="_tracking_transparency_okButtonText_1f4XR6">"Cerrar"</string>
+  <string name="_tracking_transparency_message_ZM48wc">"No tenemos permiso para redirigirte al servicio"</string>
+  <string name="_tracking_transparency_title_Z15nRST">"No se puede usar esta función"</string>
+  <string name="_TRIP_REQUEST_Z1VAvDw">"SOLICITUD DE VIAJE"</string>
+  <string name="_VIAP_travel_10pWmC">"a VIAP travel"</string>
+  <string name="_Welcome_to_Z2edch5">"Bienvenido"</string>
+  <string name="__FILE_language_Z2kfMGG">"Spanish"</string>
+  <string name="__FILE_language_code_Z1hsaoj">"es"</string>
+  <string name="_app_name_1k3Sbz">"VIAP travel"</string>
+  <string name="app_name">"VIAP travel"</string>
+  <string name="title_activity_kimera">"VIAP travel"</string>
+</resources>

@@ -1,7 +1,7 @@
 import { NativeScriptConfig } from '@nativescript/core';
 
 export default {
-  id: 'org.nativescript.viap',
+  id: 'es.viap.app',
   appPath: 'app',
   appResourcesPath: 'App_Resources',
   android: {

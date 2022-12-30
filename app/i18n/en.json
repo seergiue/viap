@@ -1,0 +1,17 @@
+{
+  "app.name": "VIAP travel",
+  "_FILE": {
+    "language_code": "en",
+    "language": "English"
+  },
+  "Welcome to": "Welcome to",
+  "VIAP travel": "VIAP travel",
+  "TRIP REQUEST": "TRIP REQUEST",
+  "FLIGHT SEARCH": "FLIGHT SEARCH",
+  "HOTEL SEARCH": "HOTEL SEARCH",
+  "tracking.transparency": {
+    "title": "Can't use this feature",
+    "message": "We don't have the permission to redirect you to the service",
+    "okButtonText": "Close"
+  }
+}
